@@ -1,4 +1,4 @@
-const dateString = "2024-05-09";
+const dateString = "2023-12-31";
 
 const dateParts = dateString.split("-");
 
